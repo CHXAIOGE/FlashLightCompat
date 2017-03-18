@@ -1,0 +1,6 @@
+# FlashLightCompat
+an Android flashlight control compat libray. Use camera&amp;camera2 
+use new CameraCompat(Context);
+ cameraCompat.openFlashLight();
+ cameraCompat.closeFlashLight();
+ that's simple
